@@ -22,3 +22,9 @@ add a sample n hold circuit. something like capacitor and discharge network.
   - discharge netwok should be quick to maintain the form of pulse signal
   - but faster discharge means pulse will be wavy...
 2. 
+
+### REFERENCE LINKS
+
+1. https://forum.arduino.cc/t/troubleshooting-rf-433mhz-receiver-transmitter/28377/20
+ for transmitter n reciever codes
+ 
